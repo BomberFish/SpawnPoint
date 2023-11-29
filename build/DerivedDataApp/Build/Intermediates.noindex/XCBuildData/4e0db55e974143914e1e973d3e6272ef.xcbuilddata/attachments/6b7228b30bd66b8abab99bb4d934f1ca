@@ -1,0 +1,4 @@
+module DiskImagesWrapper {
+header "DiskImagesWrapper-Swift.h"
+export *
+}

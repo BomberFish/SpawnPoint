@@ -1,0 +1,218 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPoint-master.dia",
+    "emit-module-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPoint-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPoint-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPoint-master.swiftdeps"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/ContentView.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Alert++.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Alert++~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Array++.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/CGSize++.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Color++.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color++~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Color+Codable.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Color+Codable~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/CommonFunctions.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Dictionary+replaceValues.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/FilePickerViewControllerDelegate.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/FilePickerViewControllerDelegate~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Haptic++.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/LogStream.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Padding.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Padding~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/SafeIndex.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SafeIndex~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/String+LocalizedError.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+LocalizedError~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/String+subscript.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/TotallyNotStolen.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/UIDevice+MachineName.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/UIImage+resizeToApprox.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/Extensions/URL++.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/URL++~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/SpawnPoint/SpawnPointApp.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.dia",
+    "index-unit-output-path" : "/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp~partial.swiftmodule"
+  }
+}

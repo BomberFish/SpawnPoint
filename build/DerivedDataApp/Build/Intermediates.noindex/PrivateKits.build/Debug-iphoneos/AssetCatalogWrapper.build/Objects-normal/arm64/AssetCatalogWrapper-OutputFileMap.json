@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper-master.dia",
+    "emit-module-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper-master.swiftdeps"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/AssetCatalogWrapper/AssetCatalogWrapper.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/AssetCatalogWrapper~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/AssetCatalogWrapper/CodableExtensions.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/AssetCatalogWrapper.build/Objects-normal/arm64/CodableExtensions~partial.swiftmodule"
+  }
+}

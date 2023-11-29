@@ -1,0 +1,18 @@
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/CGSize++.swift":
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.d"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.dia"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.swiftconstvalues"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.swiftdeps"
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CGSize++.o"
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/LogStream.swift":
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.swiftdeps"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.dia"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.swiftconstvalues"
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.o"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/LogStream.d"
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/TotallyNotStolen.swift":
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.d"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.swiftconstvalues"
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.swiftdeps"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/TotallyNotStolen.dia"

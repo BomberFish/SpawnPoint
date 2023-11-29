@@ -1,0 +1,18 @@
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/CommonFunctions.swift":
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.swiftdeps"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.d"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.swiftconstvalues"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/CommonFunctions.dia"
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Array++.swift":
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.swiftdeps"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.d"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.swiftconstvalues"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Array++.dia"
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/String+subscript.swift":
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.swiftdeps"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.dia"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.swiftconstvalues"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/String+subscript.d"

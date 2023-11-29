@@ -1,0 +1,18 @@
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Dictionary+replaceValues.swift":
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.swiftdeps"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.swiftconstvalues"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.dia"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Dictionary+replaceValues.d"
+"/Users/hariz/SpawnPoint/SpawnPoint/ContentView.swift":
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.swiftdeps"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.d"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.swiftconstvalues"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/ContentView.dia"
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/Haptic++.swift":
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.swiftdeps"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.dia"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.swiftconstvalues"
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.o"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/Haptic++.d"

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/CompressionWrapper-master.dia",
+    "emit-module-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/CompressionWrapper-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/CompressionWrapper-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/CompressionWrapper-master.swiftdeps"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/CompressionWrapper/Compression.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/CompressionWrapper.build/Objects-normal/arm64/Compression~partial.swiftmodule"
+  }
+}

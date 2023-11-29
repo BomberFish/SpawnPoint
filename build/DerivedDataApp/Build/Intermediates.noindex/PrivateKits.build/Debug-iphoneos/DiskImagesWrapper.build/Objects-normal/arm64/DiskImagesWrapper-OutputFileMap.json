@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImagesWrapper-master.dia",
+    "emit-module-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImagesWrapper-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImagesWrapper-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImagesWrapper-master.swiftdeps"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/DiskImagesWrapper/DeviceHandle.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DeviceHandle~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/DiskImagesWrapper/DiskImages.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/DiskImages~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/DiskImagesWrapper/Parameters.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/DiskImagesWrapper.build/Objects-normal/arm64/Parameters~partial.swiftmodule"
+  }
+}

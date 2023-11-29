@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+e785765b27855c96b660978c687f073d1764021a refs/heads/f1shy
+3048dc2be381afa50775cd0613a5a84bd52f5e59 refs/heads/iosonly-test
+3bc895ea04293a3f6e318dff70b3ecdf0526126b refs/heads/main

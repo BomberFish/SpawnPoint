@@ -1,0 +1,18 @@
+"/Users/hariz/SpawnPoint/SpawnPoint/SpawnPointApp.swift":
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.swiftconstvalues"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.d"
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.dia"
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/SpawnPointApp.swiftdeps"
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/UIDevice+MachineName.swift":
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.dia"
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.o"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.swiftdeps"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.d"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIDevice+MachineName.swiftconstvalues"
+"/Users/hariz/SpawnPoint/SpawnPoint/Extensions/UIImage+resizeToApprox.swift":
+  diagnostics: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.dia"
+  object: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.o"
+  dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.d"
+  const-values: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.swiftconstvalues"
+  swift-dependencies: "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/SpawnPoint.build/Debug-iphoneos/SpawnPoint.build/Objects-normal/arm64/UIImage+resizeToApprox.swiftdeps"

@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "privatekits",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/BomberFish/PrivateKits",
+          "name" : "PrivateKits"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "iosonly-test",
+            "revision" : "3048dc2be381afa50775cd0613a5a84bd52f5e59"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "PrivateKits"
+      }
+    ]
+  },
+  "version" : 6
+}

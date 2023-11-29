@@ -1,0 +1,4 @@
+module SVGWrapper {
+header "SVGWrapper-Swift.h"
+export *
+}

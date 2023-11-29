@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "privatekits",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BomberFish/PrivateKits",
+      "state" : {
+        "branch" : "iosonly-test",
+        "revision" : "3048dc2be381afa50775cd0613a5a84bd52f5e59"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,4 @@
+module ApplicationsWrapper {
+header "ApplicationsWrapper-Swift.h"
+export *
+}

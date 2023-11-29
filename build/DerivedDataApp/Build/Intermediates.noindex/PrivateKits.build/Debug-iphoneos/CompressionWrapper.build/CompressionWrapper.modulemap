@@ -1,0 +1,4 @@
+module CompressionWrapper {
+header "CompressionWrapper-Swift.h"
+export *
+}

@@ -1,0 +1,4 @@
+module FSOperations {
+header "FSOperations-Swift.h"
+export *
+}

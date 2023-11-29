@@ -1,0 +1,20 @@
+{
+  "source": "/Users/hariz/SpawnPoint/SpawnPoint/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Select user to run %@"
+      },
+      {
+        "comment": "",
+        "key": "root"
+      },
+      {
+        "comment": "",
+        "key": "mobile"
+      }
+    ]
+  },
+  "version": 1
+}

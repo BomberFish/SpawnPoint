@@ -1,0 +1,4 @@
+module NSTask {
+header "NSTask-Swift.h"
+export *
+}

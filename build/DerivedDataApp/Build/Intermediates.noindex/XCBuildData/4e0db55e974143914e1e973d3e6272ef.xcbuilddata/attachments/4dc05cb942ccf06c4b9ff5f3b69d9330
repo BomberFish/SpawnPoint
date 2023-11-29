@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsWrapper-master.dia",
+    "emit-module-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsWrapper-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsWrapper-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsWrapper-master.swiftdeps"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/ApplicationsWrapper/ApplicationsManager.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/ApplicationsWrapper.build/Objects-normal/arm64/ApplicationsManager~partial.swiftmodule"
+  }
+}

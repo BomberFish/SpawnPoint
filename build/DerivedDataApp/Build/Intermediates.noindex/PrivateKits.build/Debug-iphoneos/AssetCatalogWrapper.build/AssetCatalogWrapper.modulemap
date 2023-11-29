@@ -1,0 +1,4 @@
+module AssetCatalogWrapper {
+header "AssetCatalogWrapper-Swift.h"
+export *
+}

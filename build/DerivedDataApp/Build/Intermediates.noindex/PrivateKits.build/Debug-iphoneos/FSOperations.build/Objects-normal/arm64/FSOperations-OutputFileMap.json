@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperations-master.dia",
+    "emit-module-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperations-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperations-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperations-master.swiftdeps"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/FSOperations/FSOperation.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/FSOperation~partial.swiftmodule"
+  },
+  "/Users/hariz/SpawnPoint/build/DerivedDataApp/SourcePackages/checkouts/PrivateKits/Sources/FSOperations/RootHelperConfiguration.swift" : {
+    "const-values" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration.swiftconstvalues",
+    "dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration.d",
+    "diagnostics" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration.dia",
+    "index-unit-output-path" : "/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration.o",
+    "llvm-bc" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration.bc",
+    "object" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration.o",
+    "swift-dependencies" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration.swiftdeps",
+    "swiftmodule" : "/Users/hariz/SpawnPoint/build/DerivedDataApp/Build/Intermediates.noindex/PrivateKits.build/Debug-iphoneos/FSOperations.build/Objects-normal/arm64/RootHelperConfiguration~partial.swiftmodule"
+  }
+}
